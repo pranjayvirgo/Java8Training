@@ -1,4 +1,4 @@
-package com.globallogic.java8.defaultmethod;
+2package com.globallogic.java8.defaultmethod;
 
 public interface DefaultMethodInterface {
 default String test(String name) {
